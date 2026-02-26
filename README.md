@@ -1,6 +1,6 @@
 ## Project Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot]([screenshot.png](https://github.com/mohamud007/student-management-system/blob/5fa7514fd7c45cf5bbf9641576ac219d35f99ad4/Screenshot%202026-02-26%20090604.png))
 
 # 🎓 Student Management System
 

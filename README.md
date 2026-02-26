@@ -1,6 +1,10 @@
 ## Project Screenshot
+**Home Page**
 
-![App Screenshot](https://github.com/mohamud007/student-management-system/blob/5fa7514fd7c45cf5bbf9641576ac219d35f99ad4/Screenshot%202026-02-26%20090604.png)
+![Home page Screenshot](https://github.com/mohamud007/student-management-system/blob/5fa7514fd7c45cf5bbf9641576ac219d35f99ad4/Screenshot%202026-02-26%20090604.png)
+
+**Add page**
+![Add page screenshot](https://github.com/mohamud007/student-management-system/blob/main/Screenshot%202026-02-26%20090619.png)
 
 # 🎓 Student Management System
 

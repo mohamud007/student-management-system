@@ -1,3 +1,9 @@
+# Project Title: 🎓Student Management System
+
+## 📄 Project Description 
+
+This Student Management System is a full-stack web application built using Java Spring Boot for the backend and a simple frontend interface.The application allows users to add, view, and manage student records with details such as Student ID, Name, Age, and Email.It demonstrates core concepts of REST API development, CRUD operations, frontend-backend integration, and database connectivity.The project is designed for learning full-stack development and understanding how real-world applications manage data.
+
 ## Project Screenshot
 **Home Page**
 

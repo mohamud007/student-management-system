@@ -1,3 +1,7 @@
+## Project Screenshot
+
+![App Screenshot](screenshot.png)
+
 # 🎓 Student Management System
 
 A full-stack **Student Management System** built with:
